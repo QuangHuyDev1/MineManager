@@ -36,7 +36,7 @@ Một launcher Minecraft tích hợp nhiều tính năng như
 
 +Khởi chạy Minecraft
 
-
+    
 
 <img width="1366" height="720" alt="{D0815A8B-F7BF-40FC-BCBE-2437AE09DFD6}" src="https://github.com/user-attachments/assets/96e9fccf-6003-4645-a7ad-20dc92795706" />
 
@@ -51,3 +51,17 @@ Một launcher Minecraft tích hợp nhiều tính năng như
 
 
 <img width="1366" height="701" alt="{B3B6BDF6-92D3-463D-80B5-55153E23DA0F}" src="https://github.com/user-attachments/assets/f927984c-3cb3-43fb-a77a-dacba1a564be" />
+
+
+
+
+
+
+
++Và một số tính năng khác
+
+
+
+
+
+<img width="1366" height="721" alt="{64A7D34E-E8E8-4C4E-90BC-221C1A747C4C}" src="https://github.com/user-attachments/assets/f028e526-7538-49df-b806-36a702118af1" />
