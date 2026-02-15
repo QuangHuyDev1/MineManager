@@ -1,5 +1,8 @@
 # MineManager
 Một launcher Minecraft tích hợp nhiều tính năng như
+
+
+
 +Hiển thị cấu hình của máy tính
 
 
