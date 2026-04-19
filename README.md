@@ -1,4 +1,4 @@
-## 🚀 MineManager
+## 🚀 MineManager Update 1.1
 
 MineManager là một trình khởi chạy (Launcher) Minecraft hiện đại, mượt mà và tích hợp sẵn các công cụ tối ưu hóa hệ thống mạnh mẽ. Được thiết kế với giao diện Neon đặc trưng, MineManager không chỉ giúp bạn quản lý game mà còn nâng tầm trải nghiệm chơi game trên các dòng máy cấu hình tầm trung.
 
